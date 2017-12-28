@@ -215,3 +215,9 @@ application.secret_key = "super_secret_key"
 * Change the ownership of the project directories: `sudo chown -R www-data:www-data catalog/`.
 * Reload Apache: `sudo service apache2 restart`.
 * Open your browser and visit http://18.195.132.155/
+
+### References:
+* https://help.ubuntu.com/community/UFW
+* https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
+* https://www.digitalocean.com/community/tutorials/how-to-set-up-an-apache-mysql-and-python-lamp-server-without-frameworks-on-ubuntu-14-04
+* https://github.com/boisalai/udacity-linux-server-configuration
